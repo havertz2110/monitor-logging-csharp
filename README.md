@@ -1,4 +1,4 @@
-# Monitor-logging-csharp
+# Monitor-logging
 
 ## Introduction
 This is a project about making a Windows file system monitor (console application) that tracks changes within specified directory and its subdirectories and files, logging detailed information about each event in a structured format.
